@@ -1,0 +1,3 @@
+﻿1|bike1|hi1
+2|bike2|hi2
+3|bike3|hi3
